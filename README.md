@@ -1,5 +1,7 @@
 বাংলায় অবজেক্টিভ সি (Objecive-C), সুইফ্ট (Swift) এবং আইওএস (iOS) অ্যাপ ডেভেলপমেন্ট
 ============================================================
+
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ashikahmad/bangla-objective-c-swift-ios-development?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 এটি মূলত উপরোক্ত নামে প্রকাশিতব্য একটি বাংলা কাগুজে বইয়ের সূচিপত্র এবং এর মধ্যে থাকা সম্ভাব্য বিষয়বস্তুর তালিকা 
 
 ১. অবজেক্টিভ সি ব্যাসিক 
